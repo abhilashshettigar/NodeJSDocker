@@ -1,0 +1,22 @@
+{
+  "name": "nodejsdocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhilashshettigar/NodeJSDocker.git"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhilashshettigar/NodeJSDocker/issues"
+  },
+  "homepage": "https://github.com/abhilashshettigar/NodeJSDocker#readme"
+}
